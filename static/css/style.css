@@ -1,0 +1,45 @@
+body {
+    background-color: #cdf6d2;
+    text-align: center;
+    color: #180b4d;
+    font-family: Mulish; 
+}
+
+.jumbotron {
+    background-image: url("../images/bacteria3.png");
+    background-size: 130%;
+    text-align: center;
+    color: #180b4d;
+    font-family: Lustria; 
+    text-shadow: #cdf6d2 0.3em 0.3em 0.3em;
+
+}
+
+h2 {
+    text-align: center;
+    color: #180b4d;
+    font-family: Mulish; 
+    font-size: 1vw;
+    font-weight: 600; 
+}
+
+h3 {
+    text-align: center;
+    color: #180b4d;
+    font-family: Lustria; 
+    font-size: .65vw;
+}
+
+h5 {
+    text-align: center;
+    color: #180b4d;
+    font-family: Lustria; 
+    font-size: .65vw;
+}
+
+h6 {
+    text-align: center;
+    color: #180b4d;
+    font-family: Mulish; 
+    font-size: .65vw;
+}
